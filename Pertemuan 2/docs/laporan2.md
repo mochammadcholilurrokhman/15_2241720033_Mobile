@@ -18,7 +18,9 @@
 1. ![alt text](image.png)
 2. Karena Dart adalah bahasa pemrograman yang digunakan untuk membuat aplikasi Flutter. Jadi, jika kita ingin membuat aplikasi Flutter,kita harus memahami Dart terlebih dahulu.
 3. Dart dirancang untuk object-oriented (OO). Secara singkat, Bahasa OOP didasarkan pada konsep objek yang menyimpan kedua data (disebut fields) dan kode (disebut methods). Objek-objek ini dibuat dari cetak biru yang disebut class yang mendefinisikan field dan method yang akan dimiliki oleh sebuah objek.
+
   a. x.==(y) metode untuk melakukan perbandingan kesetaraan
+
   b. Arithmetic operators
       - (+) untuk tambahan
       - (-) untuk pengurangan
@@ -27,16 +29,19 @@
       - ~/ untuk pembagian bilangan bulat
       - % untuk operasi modulus
       - -expression untuk negasi
+
   c. Increment dan Decrement operators
       - ++var atau var++ untuk menambah nilai variabel var sebesar 1
       - --var atau var-- untuk mengurangi nilai variabel var sebesar 1
-  c. Equality and retional operators
+
+  d. Equality and retional operators
       - == untuk memeriksa apakaha operan sama
       - != untuk memeriksa apakah operan berbeda
       - (>) memeriksa apakah opersan kiri lebih besar dari operan kanan
       - (<) memeriksa apakah operan kiri lebih kecil dari operan kanan
       - (>=) memeriksa apakah operan kiri lebih besar dari atau sama dengan operan kanan
       - (<=) memeriksa apakah operan kiri kurang dari atau sama dengan operan kanan
+      
   d. Logical operators
       - !expression negasi atau kebalikan hasil eksekusi-yaitu, true menjadi false dan false menjadi true
       - || menerapkan operasi logika OR antara dua ekspresi
