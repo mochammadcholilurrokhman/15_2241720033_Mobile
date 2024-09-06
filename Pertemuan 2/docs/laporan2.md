@@ -22,6 +22,7 @@
     a. x.==(y) metode untuk melakukan perbandingan kesetaraan
 
     b. Arithmetic operators
+
        - (+) untuk tambahan
        - (-) untuk pengurangan
        - (*) untuk perkalian
@@ -31,10 +32,12 @@
        - -expression untuk negasi
 
     c. Increment dan Decrement operators
+
        - ++var atau var++ untuk menambah nilai variabel var sebesar 1
        - --var atau var-- untuk mengurangi nilai variabel var sebesar 1
 
     d. Equality and retional operators
+
        - == untuk memeriksa apakaha operan sama
        - != untuk memeriksa apakah operan berbeda
        - (>) memeriksa apakah opersan kiri lebih besar dari operan kanan
@@ -43,6 +46,7 @@
        - (<=) memeriksa apakah operan kiri kurang dari atau sama dengan operan kanan
         
     e. Logical operators
+    
        - !expression negasi atau kebalikan hasil eksekusi-yaitu, true menjadi false dan false menjadi true
        - || menerapkan operasi logika OR antara dua ekspresi
        - && menerapkan operasi logika AND antara dua ekspresi
