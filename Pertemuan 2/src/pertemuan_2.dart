@@ -7,12 +7,19 @@ void main() {
 
 // Tugas Kelompok No 4
 
-void main() {
-  int? x;
-  print('Null Safety : ${x}');
-  x = 10;
-  print('Non Null Safety : ${x}');
-  late int y;
-  y = 100;
-  print('Late : ${y}');
-}
+// void main() {
+//   int? x;
+//   print('Null Safety : ${x}');
+//   x = 10;
+//   print('Non Null Safety : ${x}');
+//   late int y;
+//   y = 100;
+//   print('Late : ${y}');
+// }
+
+
+// void main (){
+// late String nama;
+//    nama = "kelompok 6";
+//    print('Late : ${nama}');
+// }
