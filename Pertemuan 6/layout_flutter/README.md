@@ -48,3 +48,26 @@ Kode diatas digunakan untuk menampilkan icon bintang dan angka 41 yang berada di
 #### Hasil
 
 ![alt text](<WhatsApp Image 2024-10-08 at 21.40.27_38b43241.jpg>)
+
+### Praktikum 2: Implementasi button row
+
+#### Hasil
+
+![alt text](<WhatsApp Image 2024-10-08 at 21.55.39_5cf4026d.jpg>)
+
+### Praktikum 3: Implementasi text section
+
+#### Hasil 
+
+![alt text](<WhatsApp Image 2024-10-08 at 21.59.08_2d0791e9.jpg>)
+
+### Praktikum 4: Implementasi image section
+
+![alt text](<WhatsApp Image 2024-10-08 at 22.06.25_2bb1a5db.jpg>)
+
+### Tugas Praktikum 1
+
+1. Selesaikan Praktikum 1 sampai 4, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md ! <br>
+Sudah selesai
+2. Laporan nya cek di readme pada folder basic_layout_flutter
+3. Sudah
