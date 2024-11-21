@@ -174,5 +174,7 @@ Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
 Gantilah 3 warna pada langkah 3 dengan warna favorit Anda!
 
 W11 : SOAL 17
+
+
 ![alt text](gif2.gif)
 
